@@ -177,7 +177,9 @@ function App() {
     const [userSecurityAnswer, setUserSecurityAnswer] = useState('');
 
 
-    const API_URL = 'http://localhost:5000/api';
+    // API_URL will be set by Vercel environment variable REACT_APP_API_URL in production.
+    // For local development, it defaults to localhost.
+    const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:5000/api';
 
     /**
      * Displays a transient message.
