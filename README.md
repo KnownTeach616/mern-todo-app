@@ -1,4 +1,4 @@
-# MERN Todo App
+# MERN To-Do App
 
 A simple yet effective full-stack web application for managing daily tasks, built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This application allows users to keep track of their to-do items with ease and offers a clean, responsive user interface.
 
@@ -22,11 +22,11 @@ A simple yet effective full-stack web application for managing daily tasks, buil
 
 ## Features
 
-This MERN Todo App provides the following core functionalities:
+This MERN To-Do App provides the following core functionalities:
 
-* **Add New Todos:** Easily create new tasks with titles and descriptions.
-* **Edit Existing Todos:** Modify the details of existing to-do items.
-* **Delete Todos:** Remove completed or unwanted tasks from the list.
+* **Add New To-Dos:** Easily create new tasks with titles and descriptions.
+* **Edit Existing To-Dos:** Modify the details of existing to-do items.
+* **Delete To-Dos:** Remove completed or unwanted tasks from the list.
 * **Multiple Theme Toggles:** Choose from three different themes to customize the application's appearance.
 * **Responsive Design:** A user interface that adapts to various screen sizes, ensuring a consistent experience across devices.
 
@@ -131,16 +131,16 @@ Before beginning, ensure the following are installed on the system:
 Once both the backend and frontend servers are running:
 
 1.  Open a web browser and navigate to `http://localhost:3000`.
-2.  The Todo application interface will be displayed.
+2.  The To-Do application interface will be displayed.
 3.  Use the input fields and buttons to add new tasks, edit existing ones, or delete them.
 4.  Explore the theme toggles to change the application's appearance.
 
 ## Deployment
 
-The MERN Todo App is deployed and accessible via the following links:
+The MERN To-Do App is deployed and accessible via the following links:
 
 * **Backend (Render):** [https://mern-todo-app-fzcp.onrender.com](https://mern-todo-app-fzcp.onrender.com)
-* **Frontend (Vercel):** [https://mern-todo-app-eta.vercel.app](https://mern-todo-app-eta.vercel.app)
+* **Frontend (Vercel):** [https://mern-todo-app-eta.vercel.app/#/login](https://mern-todo-app-eta.vercel.app/#/login)
 
 ## Screenshots
 
@@ -148,15 +148,15 @@ Here are some screenshots showcasing the application's key features:
 
 ### Login Page
 
-![Screenshot of the MERN Todo App login page, displaying fields for email and password, a login button, and links for sign up and password reset.](assets/projects-sample-image1.png)
+![Screenshot of the MERN To-Do App login page, displaying fields for email and password, a login button, and links for sign up and password reset.](assets/projects-sample-image1.png)
 
-### Main Todo List View
+### Main To-Do List View
 
-![Screenshot of the MERN Todo App's main dashboard, displaying a populated list of tasks with options to edit, delete, and mark tasks as done, along with filtering and sorting controls.](assets/projects-sample-image3.png)
+![Screenshot of the MERN To-Do App's main dashboard, displaying a populated list of tasks with options to edit, delete, and mark tasks as done, along with filtering and sorting controls.](assets/projects-sample-image3.png)
 
-### Editing a Todo
+### Editing a To-Do
 
-![Screenshot of the MERN Todo App's task editing interface, showing a task being modified with fields for title, description, and priority, along with save and cancel buttons.](assets/projects-sample-image4.png)
+![Screenshot of the MERN To-Do App's task editing interface, showing a task being modified with fields for title, description, and priority, along with save and cancel buttons.](assets/projects-sample-image4.png)
 
 For additional screenshots and visual documentation, please refer to the `assets/` folder in the repository.
 
@@ -171,7 +171,7 @@ Based on the DevTown project guidelines, the following key steps have been succe
     * RESTful APIs for CRUD (Create, Read, Update, Delete) operations were created.
 * **Frontend Development:**
     * The React project was set up.
-    * Components for todo input, todo list, and edit functionality were created.
+    * Components for to-do input, to-do list, and edit functionality were created.
     * The frontend was connected to the backend using Axios or Fetch.
 * **UI/UX:** The UI was kept clean and responsive, utilizing frameworks like Material-UI, and multiple theme options were implemented.
 * **API Integration:** Proper communication between the frontend and backend APIs was ensured.
