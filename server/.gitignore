@@ -1,0 +1,8 @@
+# .gitignore
+# Specifies intentionally untracked files to ignore.
+
+# Environment variables file
+.env
+
+# Node.js module dependencies
+node_modules/
