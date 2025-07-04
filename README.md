@@ -13,6 +13,7 @@ A simple yet effective full-stack web application for managing daily tasks, buil
   * [Running the Application](#running-the-application)
 * [Usage](#usage)
 * [Deployment](#deployment)
+* [Screenshots](#screenshots)
 * [Project Accomplishments](#project-accomplishments)
 * [Author](#author)
 * [Contributing](#contributing)
@@ -140,6 +141,24 @@ The MERN Todo App is deployed and accessible via the following links:
 
 * **Backend (Render):** [https://mern-todo-app-fzcp.onrender.com](https://mern-todo-app-fzcp.onrender.com)
 * **Frontend (Vercel):** [https://mern-todo-app-eta.vercel.app](https://mern-todo-app-eta.vercel.app)
+
+## Screenshots
+
+Here are some screenshots showcasing the application's key features:
+
+### Login Page
+
+![Screenshot of the MERN Todo App login page, displaying fields for email and password, a login button, and links for sign up and password reset.](assets/projects-sample-image1.jpg)
+
+### Main Todo List View
+
+![Screenshot of the MERN Todo App's main dashboard, displaying a populated list of tasks with options to edit, delete, and mark tasks as done, along with filtering and sorting controls.](assets/projects-sample-image3.png)
+
+### Editing a Todo
+
+![Screenshot of the MERN Todo App's task editing interface, showing a task being modified with fields for title, description, and priority, along with save and cancel buttons.](assets/projects-sample-image4.png)
+
+For additional screenshots and visual documentation, please refer to the `assets/` folder in the repository.
 
 ## Project Accomplishments
 
