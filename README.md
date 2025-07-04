@@ -148,7 +148,7 @@ Here are some screenshots showcasing the application's key features:
 
 ### Login Page
 
-![Screenshot of the MERN Todo App login page, displaying fields for email and password, a login button, and links for sign up and password reset.](assets/projects-sample-image1.jpg)
+![Screenshot of the MERN Todo App login page, displaying fields for email and password, a login button, and links for sign up and password reset.](assets/projects-sample-image1.png)
 
 ### Main Todo List View
 
