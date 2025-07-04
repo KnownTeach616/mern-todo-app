@@ -162,7 +162,7 @@ For additional screenshots and visual documentation, please refer to the `assets
 
 ## Project Accomplishments
 
-Based on the DevTown project guidelines, the following key steps have been successfully completed in this project up to commit `ed001306c6f28cfec119018b7865dd5df6df3aae`:
+Based on the DevTown project guidelines, the following key steps have been successfully completed in this project:
 
 * **Project Planning:** Core features (Add, Delete, Edit, Mark as Done) were decided upon, and the UI layout was planned.
 * **Backend Development:**
